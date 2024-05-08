@@ -21,5 +21,5 @@ To get a copy of this project up and running on your local machine, follow these
 Clone the Repository: Use git clone to clone this repository to your local machine.
 bash
 Copy code
-git clone 
+git clone https://lamrin05.github.io/trip-advisor-clone/
 Open in Browser: Navigate to the project directory and open the index.html file in your preferred web browser.
